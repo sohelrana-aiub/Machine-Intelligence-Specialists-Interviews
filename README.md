@@ -1,2 +1,1 @@
-# Machine-Intelligence-Specialists-Interviews
-Relevant Tasks
+# Machine-Intelligence-Specialists-Interviews; 
